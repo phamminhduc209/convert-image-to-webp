@@ -1,0 +1,11 @@
+{
+  "name": "image-to-webp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.1"
+  }
+}
